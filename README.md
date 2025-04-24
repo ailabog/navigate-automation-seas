@@ -35,7 +35,8 @@ Available now on Amazon Kindle & Paperback
 🚀 Ready to Dive In?
 Clone the repo, run the examples, and start building better APIs and data-driven systems — today.
 
-git clone https://github.com/yourusername/navigate-automation-seas.git
+git clone https://github.com/ailabog/navigate-automation-seas.git
+
 cd navigate-automation-seas
 
 Have questions or feedback? Open an Issue or start a Discussion — I’d love to hear from you!
