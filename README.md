@@ -5,6 +5,7 @@ Welcome aboard! This repository is the official companion to the book Navigate t
 If you're looking for real-world, hands-on examples of modern backend development, you're in the right place.
 
 🧩 What You'll Find Inside
+
 ✅ RESTful API Design
 Learn to structure scalable, maintainable APIs with practical, real-world examples.
 
@@ -35,8 +36,10 @@ Available now on [Amazon Kindle & Paperback](https://www.amazon.com/your-book-li
 🚀 Ready to Dive In?
 Clone the repo, run the examples, and start building better APIs and data-driven systems — today.
 
+```
 git clone https://github.com/ailabog/navigate-automation-seas.git
 
 cd navigate-automation-seas
+```
 
 Have questions or feedback? Open an Issue or start a Discussion — I’d love to hear from you!
