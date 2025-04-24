@@ -72,6 +72,7 @@ Explore each folder for a standalone showcase — with comments, structure, and 
 Got questions? Found something cool? Want to suggest a new topic?
 
 🔗 Stay Connected
+
 💼 [LinkedIn](https://www.linkedin.com/in/aila-bogasieru-b2985926/)
 
 📧 [Email](aila.bogasieru@gmail.com)
