@@ -1,8 +1,6 @@
 # ⚓️ Navigate the Automation Seas – Code Companion 🚀  
 _Hands-on API design, real-time Kafka streaming, and automation in action_
 
-![Book Cover](./cover.jpg) <!-- Replace with your actual image file (JPG/PNG) -->
-
 📘 **Buy the Book – _Navigate the Automation Seas_**  
 Learn the "how" and "why" behind modern backend architecture — packed with exclusive examples, deeper walkthroughs, and practical insights for developers.  
 👉 [**Available Now on Amazon – Kindle & Paperback**](https://www.amazon.com/Navigate-Automation-Seas-Practical-Showcases-ebook/dp/B0DHYGGSDF/)
@@ -75,8 +73,8 @@ Got questions? Found something cool? Want to suggest a new topic?
 
 🔗 Stay Connected
 💼 [LinkedIn](https://www.linkedin.com/in/aila-bogasieru-b2985926/)
+
 📧 [Email](aila.bogasieru@gmail.com)
+
 📚 [Buy the Book](https://www.amazon.com/Navigate-Automation-Seas-Practical-Showcases-ebook/dp/B0DHYGGSDF/)
-
-
 
