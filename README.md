@@ -29,7 +29,7 @@ A curious coder who prefers building over theorizing...
 📘 About the Book
 📝 Navigate the Automation Seas is packed with step-by-step guidance, real code, and practical advice for today’s developers.
 
-Available now on Amazon Kindle & Paperback
+Available now on [Amazon Kindle & Paperback](https://www.amazon.com/your-book-link)
 
 
 🚀 Ready to Dive In?
